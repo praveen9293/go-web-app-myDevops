@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: go-web-app
-        image: praveenkore/go-web-app:v1
+        image: praveenkore/go-web-app:v2
         ports:
         - containerPort: 8080
 
